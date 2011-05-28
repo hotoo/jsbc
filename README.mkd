@@ -1,0 +1,7 @@
+
+# JavaScript code Batch Compiler
+
+## Demo / Usage
+
+    $ cd jsbc\demo
+    $ ..\clousecompiler.bat test.txt test.js
